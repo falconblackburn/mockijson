@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "course": "computer science",
+      "subjectID": "1"
+    },
+	{
+      "id": 2,
+      "course": "Pharmacy",
+      "subjectID": "2"
+    },
+	{
+      "id": 3,
+      "course": "Criminal Justice",
+      "subjectID": "3"
+    },
+	{
+      "id": 4,
+      "course": "International Relations",
+      "subjectID": "4"
+    },
+	{
+      "id": 5,
+      "course": "Psychology",
+      "subjectID": "5"
+    },
+	{
+      "id": 6,
+      "course": "Cinematics",
+      "subjectID": "6"
+    }
+	
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "email": "Computer Science is the study of computers and computational systems. Unlike electrical and computer engineers, computer scientists deal mostly with software and software systems; this includes their theory, design, development, and application."
+    },
+	{
+      "id": 2,
+      "email": "Course facilitates integration of knowledge of basic sciences, pharmacotherapy, pharmacy practice management, pharmaceutical care, written communication, literature evaluation, drug information retrieval, law and ethics, and pharmacoeconomics to manage patients with multiple medical conditions."
+    },
+	{
+      "id": 3,
+      "email": "It involves an examination of the historical development and contemporary practices related to the major components of the criminal justice system. Criminal Justice standards and goals and the relationship of the social behavioral sciences to criminal justice process, will be emphasized."
+    },
+	{
+      "id": 4,
+      "email": "some comment"
+    },
+	{
+      "id": 5,
+      "email": "some comment"
+    },
+	{
+      "id": 6,
+      "email": "some comment"
+    }
+	
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
